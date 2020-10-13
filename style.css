@@ -1,0 +1,28 @@
+.header {
+  color: red;
+  display: flex;
+  background-color: brown;
+  justify-content: center;
+}
+
+.title {
+  background-color: cyan;
+  display: flex;
+}
+
+.table {
+  background-color: red;
+  border: 5px solid black;
+}   
+
+.grid {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  text-align: center;
+  font-size: 20px;
+}
+        
+p {
+  color: green;
+}
